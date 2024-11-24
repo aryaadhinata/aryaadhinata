@@ -13,7 +13,7 @@ I want to be something, something that make other feel the hope
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aryaadhinata&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+![](https://github.com/piyushsuthar/github-readme-quotes)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=aryaadhinata&limit=5&theme=dark&combine_all_yearly_contributions=true)
