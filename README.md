@@ -11,7 +11,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:58a6ff&height=200&section=header&text=Arya%20Adhinata&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Developer%20%7C%20Creator%20%7C%20Learner&descAlignY=58&descSize=20&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:58a6ff&height=200&section=header&text=Arya%20Dhinata&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=%20Learner&descAlignY=58&descSize=20&animation=fadeIn" />
 
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHk3ZTAwcDZwNXJseHltbmVyYXIwajV2dmg0MXBrNjQwcG1ldGEwMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/c0PX1PqTeqhbtKMekM/giphy.gif" height="200" />
 
@@ -28,32 +28,18 @@
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
 ```yaml
-name     : Arya Adhinata
+name     : Arya Dhinata
 location : Indonesia 🇮🇩
-focus    : Building awesome things
-hobby    : Debugging with coffee ☕ and music 🎵
-motto    : "Code is poetry — make it beautiful."
+focus    : Reach as far as possible
+hobby    : Just doin some random and useless things
+motto    : "Actualy i don't know."
 ```
-
-- 🔭 Currently working on **exciting personal projects**
-- 🌱 Always learning something **new every day**  
-- 💬 Ask me about anything — I love discussing ideas!
-- ⚡ Fun fact: I spend more time naming variables than writing them
-
----
-
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
-
-**Languages**
-
-
-**Frameworks & Libraries**
-
 
 **Tools & Platforms**
 
@@ -61,7 +47,7 @@ motto    : "Code is poetry — make it beautiful."
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## 📈 Contribution Activity
+## Contribution Activity
 
 <div align="center">
 
