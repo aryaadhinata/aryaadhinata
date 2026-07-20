@@ -1,4 +1,6 @@
+<div align = "center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:58a6ff&height=200&section=header&text=Arya%20Dhinata&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=%20Learner&descAlignY=58&descSize=20&animation=fadeIn" />
+
 
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHk3ZTAwcDZwNXJseHltbmVyYXIwajV2dmg0MXBrNjQwcG1ldGEwMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/c0PX1PqTeqhbtKMekM/giphy.gif" height="200" />
 
@@ -11,7 +13,6 @@
 
 <img src="https://komarev.com/ghpvc/?username=aryaadhinata&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS" />
 
-</div>
 
 ---
 
@@ -26,7 +27,6 @@ motto    : "Actualy i don't know."
 ```
 ## Tech Stack
 
-<div align="center">
 
 **Tools & Platforms**
 
@@ -49,5 +49,6 @@ motto    : "Actualy i don't know."
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:0d1117&height=100&section=footer" />
 
 <!-- Proudly crafted with ❤️ by Arya Adhinata -->
+</div>
 
 </div>
