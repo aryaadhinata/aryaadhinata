@@ -15,16 +15,6 @@
 
 
 ---
-
-## About Me
-
-```yaml
-name     : Arya Dhinata
-location : Indonesia 🇮🇩
-focus    : Reach as far as possible
-hobby    : Just doin some random and useless things
-motto    : "Actualy i don't know."
-```
 ## Tech Stack
 
 
