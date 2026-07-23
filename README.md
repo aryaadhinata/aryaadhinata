@@ -24,9 +24,19 @@
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+<br>
+
+### Most Used Languages
+
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aryaadhinata&theme=dark&hide_border=true" alt="Most Used Languages" />
+
+<br>
+
 ## Contribution Activity
 
 <div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aryaadhinata&theme=radical&hide_border=true" alt="GitHub Streak" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=aryaadhinata&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 
