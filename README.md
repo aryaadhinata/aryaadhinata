@@ -8,13 +8,9 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/aryadhinata_52)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aryaadhinata)
-
 <br>
-
 <img src="https://komarev.com/ghpvc/?username=aryaadhinata&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS" />
 
-
----
 ## Tech Stack
 
 
