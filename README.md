@@ -42,7 +42,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:0d1117&height=100&section=footer" />
 
-<!-- Proudly crafted with ❤️ by Arya Adhinata -->
 </div>
 
 </div>
