@@ -32,7 +32,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aryaadhinata&theme=radical&hide_border=true" alt="GitHub Streak" />
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=aryaadhinata&theme=nightowl&date_format=j%20M%5B%20Y%5D&card_width=1024" alt="GitHub Streak" /></a>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=aryaadhinata&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 
